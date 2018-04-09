@@ -246,7 +246,6 @@ textarea {
 
 .sf-menu a {
   color: rgba(0, 0, 0, 0.8);
-  color: #2d9c9b;
   padding: .75em 1em;
   font-weight: normal;
   border-left: none;
@@ -1876,3 +1875,5 @@ a > img.fh5co-align-center {
 }
 
 /*# sourceMappingURL=style.css.map */
+.d-img{width:100%;}
+#donate{margin-bottom: 30px;}
