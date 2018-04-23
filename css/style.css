@@ -1877,3 +1877,42 @@ a > img.fh5co-align-center {
 /*# sourceMappingURL=style.css.map */
 .d-img{width:100%;}
 #donate{margin-bottom: 30px;}
+
+/*# profile */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  margin-bottom: 25px;
+}
+.b-img{
+  width: 100%;
+}
+.card img{
+  width: 55%;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+/*# travels page */
+.hero-image {
+  background-image: url("../images/kk-travels-banner.jpeg");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.travels {
+  text-align: center;
+}
+.travels img{
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
